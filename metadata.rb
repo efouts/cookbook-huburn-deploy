@@ -1,0 +1,7 @@
+name             'cookbook-huburn-deploy'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures cookbook-huburn-deploy'
+long_description 'Installs/Configures cookbook-huburn-deploy'
+version          '0.1.0'
